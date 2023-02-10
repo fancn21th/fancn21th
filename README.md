@@ -1,5 +1,5 @@
 😀 Welcome !
 
-- Spikes with naming pattern '0_XXX_XXX'
-- Reusables with naming pattern '1-XXX-XXX'
-- Repos with no prefix are expected as serious ones
+- Spike with naming pattern '0_XXX_XXX'
+- Reusable with naming pattern '1-XXX-XXX'
+- Repo with no prefix is either cool or dumb
