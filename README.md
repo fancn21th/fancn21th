@@ -8,4 +8,4 @@ And then anatomy.fancn21th.cn will play as a workflow of how a website should be
 
 I also wish to have some of the demo from my work focus. Like LLMs client app. Some of the feature is really challenging for those new to web development. Why it is hard for them is what I am after.
 
-Above all.  Digging into generative art with no boundary and limit is always the path I keen to proceed. 
+Digging into generative art with no boundary and limit is always the path I keen to proceed. 
