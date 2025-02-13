@@ -1,6 +1,7 @@
 😀 Welcome !
 
-I have completed the MVP, aka Minimum Viable Product, of the AI Chatbot based on the latest frontend techologies on very speicial day for a software enginner :) 
+I would like to polishing the xyzChat by enchancing with Tipap/Blocksuite editor ...
 
-Digging into generative art with no boundary and limit is always the path I keen to proceed.
+
+> Digging into generative art with no boundary and limit is always the path I keen to proceed.
 
