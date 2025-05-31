@@ -1,12 +1,14 @@
 😀 Welcome !
 
-new:  Inevitably I have to rethink about the UI framework for AI trends. Now I have different perspective after I studied [design-systems-101](https://designsystemuniversity.teachable.com/courses/design-systems-101/lectures/52895393).
+After studying Design Systems 101, my perspective on UI frameworks has evolved. I initially aimed to create a UI framework proactively, but Dan Mall argues that design systems should emerge afterwards—as a distilled product of what you’ve already built and want to stop rebuilding.
 
-I was trying to create the UI framework in advance however [Dan mall ](https://danmall.com/) claimed the design system should emerge afterwards. In other words, UI framework is a product of something you recreate based on what you already have and do not want to do it again. 
+This shifted my thinking: the core value of a UI framework isn’t in the styling, but in the logic. Styling can be elegantly handled by tools like shadcn, but the logic layer lacks a standard paradigm.
 
-So I think the core value of UI framework is not style part and must be logic part. There are so many great style part solution like shadcn. However the logic part had no paradigm. React or Vue is a paradigm for not care how data is rendered. But not a paradigm when you want to express the logic part in a easily understandable way. So I think maybe I should combine shadcn + xstate, together it is the core of an resuable UI framework for AI and AI only.
+React and Vue provide paradigms for rendering structure, but when it comes to managing pure UI logic, especially flows, it ends up scattered across files, like hooks, and context providers. There’s no unified structure.
 
-deprecated:  I would like to polishing the xyzChat by enchancing with Tipap/Blocksuite editor ...
+That’s where XState comes in. It offers a way to model UI behavior explicitly and predictably. By combining shadcn for styling and XState for UI logic, we can create a reusable, declarative UI framework tailored for AI applications—not just another component library, but a both event and data driven system.
+
+Let's try.
 
 > Digging into generative art with no boundary and limit is always the path I keen to proceed.
 
