@@ -10,5 +10,5 @@ That’s where XState comes in. It offers a way to model UI behavior explicitly 
 
 Let's try.
 
-> Digging into generative art with no boundary and limit is always the path I keen to proceed.
+> Digging into generative art without boundaries or limits is always the path I am keen to pursue
 
