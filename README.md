@@ -1,10 +1,12 @@
 😀 Welcome !
 
+Building AI product with ...
+
 - Chat
   - Assistant UI
-- Canvas
+- Canvas / Editor (Chat GPT Canvas alike)
   - ProseMirror
-- Edgeless Canvas
+- Edgeless Canvas (Flowith alike )
   - TBD...
 
 Let's try.
