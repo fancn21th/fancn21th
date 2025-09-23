@@ -6,6 +6,7 @@ Building AI product with ...
   - Assistant UI
 - Canvas / Editor (Chat GPT Canvas alike)
   - ProseMirror
+  - Tiptap
 - Edgeless Canvas (Flowith alike )
   - TBD...
 
